@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Text in function
+#: single.php:47 loop.php:43 loop.php:279
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: functions.php:238
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: single.php:87
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: widgets.php:151
+msgid "%s ago"
+msgstr ""
+
+#. Text in function
+#: functions.php:239
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: single.php:47 loop.php:43 loop.php:279
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: single.php:47 loop.php:43 loop.php:279
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: comments.php:30 comments.php:41
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: widgets.php:201
+msgid "@Follow Me"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:238
+msgid "Access Token"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:242
+msgid "Access Token Secret"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Alcatron - Contact Form"
+msgstr ""
+
+#. Text in function
+#: widgets.php:715
+msgid "Alcatron - Flickr images"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Alcatron - Latest Works"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Alcatron Footer Blog Posts"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Alcatron Popular/Latest posts/Last comments"
+msgstr ""
+
+#. Text in echo
+#: portfolio_loop.php:48 portfolio_loop.php:56
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: loop.php:16
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: archive.php:29
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: post-types.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: post-types.php:1 widgets.php:364
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:632
+msgid "Category (Leave Blank to show from all categories)"
+msgstr ""
+
+#. Text in echo
+#: comments.php:100
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:574
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: widgets.php:230
+msgid "Consumer Key"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:234
+msgid "Consumer Secret"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Contact Us"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Contact widget"
+msgstr ""
+
+#. Text in function
+#: archive.php:21
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:61
+msgid "Days"
+msgstr ""
+
+#. Text in function
+#: widgets.php:715
+msgid "Display images from flickr"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Display latest blog posts on footer"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Display latest works (Portoflio)"
+msgstr ""
+
+#. Text in function
+#: post-types.php:1
+msgid "Edit Work"
+msgstr ""
+
+#. Text in echo
+#: comments.php:91
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:707
+msgid "Email Address:<br />"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:3
+msgid "Enter search terms"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:79
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Navigation"
+msgstr ""
+
+#. Text in function
+#: the_breadcrumb.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:68
+msgid "Hours"
+msgstr ""
+
+#. Text in echo
+#: comments.php:79
+msgid "Log out"
+msgstr ""
+
+#. Text in echo
+#: comments.php:77
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: header.php:68
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: header.php:66
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: header.php:95
+msgid "Main Menu"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:75
+msgid "Minutes"
+msgstr ""
+
+#. Text in function
+#: archive.php:23
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: comments.php:88
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:31 comments.php:42
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in echo
+#: portfolio_loop.php:70
+msgid ""
+"No categories selected. To fix this, please login to your WP Admin area and "
+"se"
+msgstr ""
+
+#. Text in echo
+#: single.php:39 loop.php:35 loop.php:271
+msgid "No image"
+msgstr ""
+
+#. Text in echo
+#: loop.php:14
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: search.php:46
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:627
+msgid "Number of Posts to show"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:250
+msgid "Number of Tweets to show"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:84
+msgid "Number of photos:"
+msgstr ""
+
+#. Text in echo
+#: 404.php:20
+msgid "Oops...are you lost?"
+msgstr ""
+
+#. Text in function
+#: loop.php:75 loop.php:135 loop.php:311
+msgid "Permalink to %1$s"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:527
+msgid "Popular"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:543
+msgid "Recent"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Retrieve and display popular/latest posts/latest comments."
+msgstr ""
+
+#. Text in echo
+#: 404.php:34
+msgid "Return to previous page"
+msgstr ""
+
+#. Text in echo
+#: footer.php:26
+msgid "Scroll"
+msgstr ""
+
+#. Text in function
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:82
+msgid "Seconds"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Send"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:474
+msgid "Show thumbnails"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:151
+msgid "Sorry , Twitter seems down or responds slowly."
+msgstr ""
+
+#. Text in echo
+#: search.php:48
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Text in echo
+#: widgets.php:711
+msgid "Success Message:<br />"
+msgstr ""
+
+#. Text in function
+#: widgets.php:635
+msgid "Thank you, e-mail sent."
+msgstr ""
+
+#. Text in echo
+#: 404.php:26
+msgid ""
+"The page you are looking for seems to be missing.Go back, or return to "
+"yourcompany.com to choose a new direction.Please report any broken links to "
+"our team."
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:3
+msgid "There Is No Sidebar Widgets Yet"
+msgstr ""
+
+#. Text in echo
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: widgets.php:246 widgets.php:622
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:74
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:703
+msgid "Title:<br />"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Top Navigation"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:226
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: comments.php:94
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:54
+msgid "Weeks"
+msgstr ""
+
+#. Text in function
+#: archive.php:25
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: functions.php:231
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: widgets.php:590
+msgid "on"
+msgstr ""
+
+#. Text in function
+#: widgets.php:584
+msgid "on "
+msgstr ""

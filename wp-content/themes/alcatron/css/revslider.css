@@ -1,0 +1,191 @@
+
+/*********************************************************************************************
+  - SET THE SCREEN SIZES FOR THE BANNER IF YOU WISH TO MAKE THE BANNER RESOPONSIVE  -
+**********************************************************************************************/
+
+/*  - THE BANNER CONTAINER (Padding, Shadow, Border etc. )  - */
+.rev_slider_wrapper{background:none !important; padding:0 !important}
+.fullwidthbanner-container{max-width: 100% !important;max-height: 705px !important;overflow:hidden; margin-bottom: 25px !important}
+
+.fullwidthbanner {
+  width:100% !important;
+  height:100%;
+  max-height: 680px !important;
+  position:relative;
+  overflow:hidden;
+}
+
+/*************************
+  - CAPTIONS  -
+**************************/
+
+.tp-hide-revslider,.tp-caption.tp-hidden-caption {visibility:hidden !important; display:none !important;}
+
+.tp-caption {
+  position: absolute !important;
+  padding: 0 5px !important;;
+  
+}
+.tp-mask {
+  width:auto!important;
+}
+.tp-caption.big {
+  color: #fff !important;
+  font-size: 2.923em !important; /* 38px */
+  letter-spacing: -0.02em !important;
+  padding: 5px 15px !important;
+}
+
+.tp-caption.text-shadow {
+  text-shadow: 0 0 4px rgba(0,0,0,.7) !important;
+}
+
+.tp-caption.small {
+  padding: 8px 12px !important;  
+  font-size: 1.538em !important; /* 16px */
+}
+
+/* Colors */
+
+.tp-caption.black {
+  color: #fff !important;
+  text-shadow: 0 -1px rgba(0, 0, 0, 0.75) !important;
+  background-color: #1a1a1a !important;
+  
+}
+
+.tp-caption.big_white {
+  padding: 10px 20px !important;
+  color: #fff !important;
+  background-color: #fff !important;
+  background-image: url('../images/rev_bg.png') !important;
+  font-weight: 300 !important;
+  font-size:36px !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+.tp-caption.big_orange{
+  padding: 10px 20px !important;
+  background-color: #f2c025 !important;
+  color: #fff !important;
+  font-weight: 300 !important;
+  font-size:24px !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+.tp-caption.medium_grey{
+  padding: 10px 20px !important;
+  color: #fff !important;
+  background-color: #fff !important;
+  background-image: url('../images/rev_bg.png') !important;
+  font-weight: 300 !important;
+  font-size:20px !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.tp-caption.colored {
+  color: #fff !important;
+  background: orange !important;
+}
+
+.tp-caption.colored ::-moz-selection {background: #333 !important;}
+.tp-caption.colored ::selection {background: #333 !important;} 
+
+.tp-caption.video {
+  box-shadow: 0 0 7px rgba(0,0,0,0.4) !important;
+}
+
+/* Caption Button */
+
+.tp-caption .button {
+  display: inline-block !important;
+  padding: 10px 18px !important;
+  color: #fff !important;
+  background: orange !important;
+  font-size: 1.333em !important; /* 16px */
+}
+
+.tp-caption.round,.tp-caption .round {border-radius: 5px !important}
+.tp-caption .button:hover,.tp-caption .button.colored:hover {color: #fff !important; text-decoration: underline !important;}
+.tp-bannertimer {display:none;background: url(../images/slider/revslider/assets/timer.png) !important;}
+.tp-bullets.simplebullets.round .bullet	{background-color:#fff !important; background-color:rgba(255,255,255,0.4) !important; background-image:none !Important}
+.tp-bullets.simplebullets.round .bullet.selected{ background:orange !important}
+
+/************************
+  - NAVIGATION  -
+*************************/
+
+/** BULLETS **/
+.tp-bullets { 
+  bottom: 15px !important;
+  overflow: hidden;
+  opacity: 1 !important; /* forces the permanent display of the bullets */
+  height:24px!important;
+  background-color: #000 !important;
+  background-color: rgba(0,0,0,0.6) !important;
+  padding: 7px !important;
+  border-radius: 5px !Important;
+  width:auto !important;
+}
+
+.tp-bullets .bullet, .tp-bullets.simplebullets.round .bullet {
+  margin:auto 4px auto auto !important;
+  float: left !important;  
+  width: 80px !important; 
+  height: 9px!important; 
+  display: block !important; 
+
+  cursor: pointer !important; 
+  text-indent: -999em !important;
+
+}
+
+
+.tp-bullets .bullet.last {
+  margin: 0 !important;
+}
+
+.tp-bullets .bullet.selected {
+  cursor: default !important;
+  background-color: orange !important;
+}
+.tp-bullets.simplebullets.navbar .bullet.selected{background:orange !important}
+
+/*************************************
+  - TP ARROWS   -
+**************************************/
+
+.tp-leftarrow, .tp-rightarrow { 
+    display:block !important;
+    width:81px !important;
+    height:81px !important;
+    background:url(../images/slider/arrows.png) no-repeat !important;
+    text-indent:-9999px !important;
+    border:0 !important;
+    opacity: 0 ;
+    -webkit-transition: all 50ms ease-in-out !important;
+    -moz-transition: all 150ms ease-in-out !important;
+    -o-transition: all 150ms ease-in-out !important;
+    transition: all 150ms ease-in-out !important;
+    top:100% ;
+    margin-top:-81px !important;
+}
+
+.fullwidthbanner-container:hover .tp-leftarrow,
+.fullwidthbanner-container:hover .tp-rightarrow {
+  opacity: 1 !important;
+}
+
+.tp-leftarrow{
+    left:0px !important;
+}
+.tp-rightarrow{
+    background-position:0px -81px !important;
+    right:0px !important;
+}
+
+
+
+/*  CAPTION SLIDELINK   **/
+.caption.slidelink a div,
+.tp-caption.slidelink a div {background: url(../images/slider/revslider/assets/coloredbg.png) repeat !important;}
+
+.tp-loader {background:url(../images/slider/revslider/assets/loader.gif) no-repeat 10px 10px !important; background-color: #fff !important;  margin:-22px !important; top:50% !important; left:50% !important; z-index:10000; position:absolute !important; width:44px !important; height:44px !important; border-radius: 3px !important;} 

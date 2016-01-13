@@ -1,0 +1,805 @@
+# Copyright (C) 2015 Huge IT Product Catalog
+# This file is distributed under the same license as the Huge IT Product Catalog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Huge IT Product Catalog 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/product-catalog\n"
+"POT-Creation-Date: 2015-12-02 12:42:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: Front_end/catalog_front_end_view.php:1498
+msgid "Load More..."
+msgstr ""
+
+#: Front_end/catalog_front_end_view.php:2547
+#: Front_end/catalog_front_end_view.php:4094
+#: Front_end/catalog_front_end_view.php:4961
+msgid "Load"
+msgstr ""
+
+#: Front_end/catalog_front_end_view.php:7501
+msgid "No Parameters"
+msgstr ""
+
+#: Front_end/catalog_front_end_view.php:7508
+msgid "Comments"
+msgstr ""
+
+#: Front_end/catalog_front_end_view.php:7512
+msgid "No Comments"
+msgstr ""
+
+#: admin/albums_view.php:4 admin/albums_view.php:7
+#: admin/catalog_Options_view.php:4 admin/catalog_Options_view.php:7
+#: admin/catalog_lightbox_view.php:4 admin/catalog_lightbox_view.php:7
+#: admin/catalogs_view.php:4 admin/catalogs_view.php:7
+#: admin/ratings_view.php:4 admin/ratings_view.php:7 admin/reviews_view.php:4
+#: admin/reviews_view.php:7 admin/submitions_view.php:4
+#: admin/submitions_view.php:7
+msgid "Access Denied"
+msgstr ""
+
+#: admin/albums_view.php:15
+msgid "Catalog Albums"
+msgstr ""
+
+#: admin/albums_view.php:16
+msgid "Add New Stand"
+msgstr ""
+
+#: admin/albums_view.php:22 admin/catalogs_view.php:210
+#: admin/catalogs_view.php:1493
+msgid "Name"
+msgstr ""
+
+#: admin/albums_view.php:23 admin/albums_view.php:125 product-catalog.php:3105
+msgid "Catalogs"
+msgstr ""
+
+#: admin/albums_view.php:24 admin/catalogs_view.php:212
+#: admin/catalogs_view.php:1503 admin/catalogs_view.php:1637
+#: admin/catalogs_view.php:1647 admin/ratings_view.php:168
+#: admin/ratings_view.php:216
+msgid "Delete"
+msgstr ""
+
+#: admin/albums_view.php:167 admin/catalogs_view.php:189
+msgid "Add New Catalog"
+msgstr ""
+
+#: admin/albums_view.php:332 product-catalog.php:638
+msgid "Title:"
+msgstr ""
+
+#: admin/albums_view.php:336
+msgid "Description:"
+msgstr ""
+
+#: admin/albums_view.php:351
+msgid "Remove Catalog"
+msgstr ""
+
+#: admin/albums_view.php:352
+msgid "Edit Catalog"
+msgstr ""
+
+#: admin/albums_view.php:367
+msgid "Select The Album Theme"
+msgstr ""
+
+#: admin/albums_view.php:370
+msgid "Views"
+msgstr ""
+
+#: admin/albums_view.php:372 admin/catalog_Options_view.php:191
+#: admin/catalogs_view.php:1191
+msgid "Blocks Toggle Up/Down"
+msgstr ""
+
+#: admin/albums_view.php:373 admin/catalog_Options_view.php:192
+#: admin/catalogs_view.php:1192
+msgid "Full-Height Blocks"
+msgstr ""
+
+#: admin/albums_view.php:374 admin/catalog_Options_view.php:193
+#: admin/catalogs_view.php:1193
+msgid "Catalog/Content-Popup"
+msgstr ""
+
+#: admin/albums_view.php:375 admin/catalog_Options_view.php:194
+#: admin/catalogs_view.php:1194
+msgid "Full-Width Blocks"
+msgstr ""
+
+#: admin/albums_view.php:376 admin/catalog_Options_view.php:195
+#: admin/catalogs_view.php:1195
+msgid "Content Slider"
+msgstr ""
+
+#: admin/albums_view.php:381
+msgid "Pause time"
+msgstr ""
+
+#: admin/albums_view.php:385 admin/catalogs_view.php:1213
+msgid "Change speed"
+msgstr ""
+
+#: admin/albums_view.php:389
+msgid "catalog Position"
+msgstr ""
+
+#: admin/albums_view.php:391
+msgid "Left"
+msgstr ""
+
+#: admin/albums_view.php:392
+msgid "Right"
+msgstr ""
+
+#: admin/albums_view.php:393
+msgid "Center"
+msgstr ""
+
+#: admin/albums_view.php:409 admin/catalogs_view.php:1313
+msgid "Usage"
+msgstr ""
+
+#: admin/albums_view.php:413 admin/catalogs_view.php:1317
+msgid "Shortcode"
+msgstr ""
+
+#: admin/albums_view.php:414 admin/albums_view.php:419
+msgid "Copy"
+msgstr ""
+
+#: admin/albums_view.php:414
+msgid "paste the shortcode directly into any WordPress post or page."
+msgstr ""
+
+#: admin/albums_view.php:418 admin/catalogs_view.php:1322
+msgid "Template Include"
+msgstr ""
+
+#: admin/albums_view.php:419
+msgid ""
+"paste this code into a template file to include the slideshow within your "
+"theme."
+msgstr ""
+
+#: admin/catalog_Options_func.php:36 admin/catalog_Options_func.php:54
+#: admin/catalog_general_options_func.php:45
+#: admin/catalog_lightbox_func.php:35 admin/catalog_lightbox_func.php:54
+#: admin/catalogs_func.php:618 admin/product_options_func.php:36
+msgid "Item Saved"
+msgstr ""
+
+#: admin/catalog_Options_view.php:178 admin/catalog_lightbox_view.php:222
+#: admin/product_options_view.php:142
+msgid ""
+"This options are for commercial users, it includes one of Personal, Multi-"
+"Site or Developer versions.Please upgrade to use this section. Please "
+"upgrade to use this section."
+msgstr ""
+
+#: admin/catalog_Options_view.php:182
+msgid "Themes Options"
+msgstr ""
+
+#: admin/catalog_Options_view.php:184 admin/catalog_Options_view.php:215
+#: admin/catalog_general_options_view.php:150
+#: admin/catalog_general_options_view.php:315
+#: admin/catalog_lightbox_view.php:226 admin/catalog_lightbox_view.php:254
+msgid "Save"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:149
+msgid "General Options"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:163
+msgid "Translations"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:165
+msgid "Price Block Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:169
+msgid "Share Block Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:173
+msgid "Rating Block Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:177
+msgid "Parameters Tab Title Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:181
+msgid "Comments Tab Title Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:186
+msgid "Name Label Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:190
+msgid "Comment Label Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:194
+msgid "Captcha Label Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:198
+msgid "Captcha Error Message Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:203
+msgid "Order Popup Title"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:207
+msgid "E-mail Input Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:211
+msgid "E-mail Error Message Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:215
+msgid "Phone Input Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:219
+msgid "Message Input Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:223
+msgid "Product Button Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:227
+msgid "Order Button Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:231
+msgid "Comments Submit Button Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:235
+msgid "Order Popup Button Text"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:241
+msgid "Email To Administrator"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:243
+msgid "Send Message To Administrator After Each Submission"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:248
+msgid "Administrator E-mail"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:253
+#: admin/catalog_general_options_view.php:285
+msgid "Message Subject"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:258
+msgid "From"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:263
+#: admin/catalog_general_options_view.php:290
+msgid "Message"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:277
+msgid "Email To User"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:279
+msgid "Send Confirming Message To Users After Submitting"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:303
+msgid "Contact Seller Button"
+msgstr ""
+
+#: admin/catalog_general_options_view.php:305
+msgid "Show Contact Seller Button"
+msgstr ""
+
+#: admin/catalog_lightbox_view.php:225
+msgid "Image View Options"
+msgstr ""
+
+#: admin/catalog_lightbox_view.php:232
+msgid "Lightbox Options"
+msgstr ""
+
+#: admin/catalog_lightbox_view.php:233
+msgid "Zoom Options"
+msgstr ""
+
+#: admin/catalog_lightbox_view.php:270
+msgid ""
+"Product Catalog Settings are disabled in free version. If you need those "
+"functionalityes, you need to buy the commercial version."
+msgstr ""
+
+#: admin/catalogs_func.php:477
+msgid "Item Deleted."
+msgstr ""
+
+#: admin/catalogs_view.php:188
+msgid "Huge-IT Catalogs"
+msgstr ""
+
+#: admin/catalogs_view.php:195
+msgid "Filter"
+msgstr ""
+
+#: admin/catalogs_view.php:201
+msgid "Reset"
+msgstr ""
+
+#: admin/catalogs_view.php:211
+msgid "Images"
+msgstr ""
+
+#: admin/catalogs_view.php:546 product-catalog.php:3106
+msgid "Products"
+msgstr ""
+
+#: admin/catalogs_view.php:617
+msgid "remove"
+msgstr ""
+
+#: admin/catalogs_view.php:757
+msgid "Title"
+msgstr ""
+
+#: admin/catalogs_view.php:761
+msgid "Price"
+msgstr ""
+
+#: admin/catalogs_view.php:765
+msgid "Discount Price"
+msgstr ""
+
+#: admin/catalogs_view.php:782
+msgid "Description"
+msgstr ""
+
+#: admin/catalogs_view.php:848
+msgid "Remove Product"
+msgstr ""
+
+#: admin/catalogs_view.php:849
+msgid "View Ratings"
+msgstr ""
+
+#: admin/catalogs_view.php:850
+msgid "View Comments"
+msgstr ""
+
+#: admin/catalogs_view.php:1167
+msgid "Select The Catalog Theme"
+msgstr ""
+
+#: admin/catalogs_view.php:1170
+msgid "Width"
+msgstr ""
+
+#: admin/catalogs_view.php:1174
+msgid "Height"
+msgstr ""
+
+#: admin/catalogs_view.php:1178
+msgid "Pause on hover"
+msgstr ""
+
+#: admin/catalogs_view.php:1184
+msgid "Catalog Name"
+msgstr ""
+
+#: admin/catalogs_view.php:1189
+msgid "Select The View"
+msgstr ""
+
+#: admin/catalogs_view.php:1200
+msgid "Displaying Content"
+msgstr ""
+
+#: admin/catalogs_view.php:1202
+msgid "Show All"
+msgstr ""
+
+#: admin/catalogs_view.php:1203
+msgid "Paginatiion"
+msgstr ""
+
+#: admin/catalogs_view.php:1204
+msgid "Load More"
+msgstr ""
+
+#: admin/catalogs_view.php:1209
+msgid "Content Per Page"
+msgstr ""
+
+#: admin/catalogs_view.php:1220
+msgid "Save Catalog"
+msgstr ""
+
+#: admin/catalogs_view.php:1231
+msgid "Show Sorting Buttons"
+msgstr ""
+
+#: admin/catalogs_view.php:1236
+msgid "Show Categorie Buttons"
+msgstr ""
+
+#: admin/catalogs_view.php:1245
+msgid "Parameters"
+msgstr ""
+
+#: admin/catalogs_view.php:1275
+msgid "Add New Parameter"
+msgstr ""
+
+#: admin/catalogs_view.php:1283
+msgid "Select Album"
+msgstr ""
+
+#: admin/catalogs_view.php:1299
+msgid "Catalog Thumbnail"
+msgstr ""
+
+#: admin/catalogs_view.php:1318
+msgid ""
+"Copy &amp; paste the shortcode directly into any WordPress post or page."
+msgstr ""
+
+#: admin/catalogs_view.php:1323
+msgid ""
+"Copy &amp; paste this code into a template file to include the slideshow "
+"within your theme."
+msgstr ""
+
+#: admin/catalogs_view.php:1489
+msgid "Product"
+msgstr ""
+
+#: admin/catalogs_view.php:1490
+msgid "All Comments Manager"
+msgstr ""
+
+#: admin/catalogs_view.php:1493 admin/reviews_view.php:177
+#: admin/reviews_view.php:197
+msgid "Comment"
+msgstr ""
+
+#: admin/catalogs_view.php:1633
+msgid "Product Ratings"
+msgstr ""
+
+#: admin/catalogs_view.php:1634
+msgid "All Ratings Manager"
+msgstr ""
+
+#: admin/catalogs_view.php:1637
+msgid "Adress"
+msgstr ""
+
+#: admin/catalogs_view.php:1637
+msgid "Value"
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:148
+msgid ""
+"Huge-IT slider is an awesome WordPress slider plugin with a lot of nice "
+"features. Just install and build sliders in a few minutes."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:149
+msgid ""
+"Huge-IT Slider is a quick and easy way to add custom sliders to the "
+"WordPress websites (both to templates and posts/pages). The slider allows "
+"having unlimited amount of images with their titles and descriptions."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:152
+#: admin/huge_it_featured_plugins.php:168
+#: admin/huge_it_featured_plugins.php:184
+#: admin/huge_it_featured_plugins.php:200
+#: admin/huge_it_featured_plugins.php:216
+#: admin/huge_it_featured_plugins.php:232
+#: admin/huge_it_featured_plugins.php:248
+#: admin/huge_it_featured_plugins.php:264
+#: admin/huge_it_featured_plugins.php:280
+msgid "View Plugin"
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:165
+msgid ""
+"Portfolio Gallery is perfect for using for creating various portfolios or "
+"gallery within various views. The product allows adding descriptions and "
+"titles for each portfolio gallery. It is rather useful whever using with "
+"various pages and posts, as well as within custom location."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:181
+msgid ""
+"Huge-IT Gallery images is perfect for using for creating various galleries "
+"within various views, to creating various sliders with plenty of styles, "
+"beautiful lightboxes with it’s options for any taste. The product allows "
+"adding descriptions and titles for each image of the Gallery. It is rather "
+"useful wherever using with various pages and posts, as well as within custom "
+"location."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:197
+msgid ""
+"Lightbox is a perfect tool for viewing photos. It is created especially for "
+"simplification of using, permits you to view larger version of images and "
+"giving an interesting design. With the help of slideshow and various styles, "
+"betray a unique image to your website."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:213
+msgid ""
+"Video Gallery plugin was created and specifically designed to show your "
+"video files in unusual splendid ways. It has 5 good-looking views. Each are "
+"made in different taste so that you can choose any of them, according to the "
+"style of your website."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:228
+msgid ""
+"Social network is one of the popular places where people get information "
+"about everything in the world. Adding social share buttons into your blog or "
+"website page is very necessary and useful element for \"socialization\" of "
+"the project."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:244
+msgid ""
+"Huge-IT Google Map. One more perfect tool from Huge-IT. Improved Google Map, "
+"where we have our special contribution. Most simple and effective tool for "
+"rapid creation of individual Google Map in posts and pages."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:260
+msgid ""
+"Huge-It Colorbox is the most spellbinding plugin in WordPress that implement "
+"Lightbox-effect look of the images and videos (when you click on the "
+"thumbnail of the image/video it nicely opens and increases in the same "
+"window with a beautiful effect)."
+msgstr ""
+
+#: admin/huge_it_featured_plugins.php:276
+msgid ""
+"Inserting video on a page is a perfect way to supplement website with media "
+"content and expand the userвЂ™s interest in your site. Huge-IT Video Player "
+"is extremely necessary video tool for your sites, which provides a wide "
+"range of different file formats."
+msgstr ""
+
+#: admin/ratings_view.php:149
+msgid "Huge-IT Catalog Ratings"
+msgstr ""
+
+#: admin/ratings_view.php:156 admin/reviews_view.php:169
+#: admin/reviews_view.php:189
+msgid "Select All"
+msgstr ""
+
+#: admin/ratings_view.php:160 admin/submitions_view.php:203
+msgid "Product Name"
+msgstr ""
+
+#: admin/ratings_view.php:162
+msgid "Rating"
+msgstr ""
+
+#: admin/ratings_view.php:164 admin/reviews_view.php:174
+#: admin/reviews_view.php:194
+msgid "Author"
+msgstr ""
+
+#: admin/ratings_view.php:166
+msgid "Submited On"
+msgstr ""
+
+#: admin/ratings_view.php:167 admin/ratings_view.php:215
+#: admin/reviews_view.php:235 admin/submitions_view.php:240
+msgid "Edit"
+msgstr ""
+
+#: admin/ratings_view.php:177 admin/reviews_view.php:210
+msgid "Select comment"
+msgstr ""
+
+#: admin/reviews_view.php:148
+msgid "Comments Manager"
+msgstr ""
+
+#: admin/reviews_view.php:154
+msgid "Select bulk action"
+msgstr ""
+
+#: admin/reviews_view.php:156 admin/reviews_view.php:256
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/reviews_view.php:157 admin/reviews_view.php:257
+msgid "Mark As Spam"
+msgstr ""
+
+#: admin/reviews_view.php:158 admin/reviews_view.php:258
+msgid "Delete From Spams"
+msgstr ""
+
+#: admin/reviews_view.php:159 admin/reviews_view.php:259
+msgid "Move to Trash"
+msgstr ""
+
+#: admin/reviews_view.php:180 admin/reviews_view.php:200
+msgid "In Response To"
+msgstr ""
+
+#: admin/reviews_view.php:216 admin/reviews_view.php:236
+#: admin/submitions_view.php:180 admin/submitions_view.php:242
+#: admin/submitions_view.php:339 admin/submitions_view.php:340
+msgid "Spam"
+msgstr ""
+
+#: admin/reviews_view.php:226 admin/submitions_view.php:227
+msgid "Submitted on"
+msgstr ""
+
+#: admin/reviews_view.php:237 admin/submitions_view.php:245
+msgid "Not Spam"
+msgstr ""
+
+#: admin/reviews_view.php:238 admin/reviews_view.php:254
+#: admin/submitions_view.php:181 admin/submitions_view.php:248
+#: admin/submitions_view.php:341
+msgid "Trash"
+msgstr ""
+
+#: admin/submitions_view.php:173 admin/submitions_view.php:200
+#: admin/submitions_view.php:218
+msgid "None"
+msgstr ""
+
+#: admin/submitions_view.php:175
+msgid "Read"
+msgstr ""
+
+#: admin/submitions_view.php:176
+msgid "Unread"
+msgstr ""
+
+#: admin/submitions_view.php:182
+msgid "Refrash"
+msgstr ""
+
+#: admin/submitions_view.php:188 admin/submitions_view.php:350
+msgid "Prev"
+msgstr ""
+
+#: admin/submitions_view.php:189 admin/submitions_view.php:354
+msgid "Next"
+msgstr ""
+
+#: admin/submitions_view.php:199
+msgid "Customer Name"
+msgstr ""
+
+#: admin/submitions_view.php:201
+msgid "Customer Email"
+msgstr ""
+
+#: admin/submitions_view.php:202
+msgid "Customer Phone"
+msgstr ""
+
+#: admin/submitions_view.php:213
+msgid "Select Submission"
+msgstr ""
+
+#: admin/submitions_view.php:335
+msgid "Customer Ascing You About"
+msgstr ""
+
+#: admin/submitions_view.php:867
+msgid "Are You Sure ?"
+msgstr ""
+
+#: catalog_function/html_catalog_func.php:51
+msgid "items"
+msgstr ""
+
+#: product-catalog.php:27
+msgid "Add Catalog"
+msgstr ""
+
+#: product-catalog.php:281
+msgid ""
+"This plugin is the non-commercial version of the Huge IT Product Catalog "
+"plugin. If you want to customize to the styles and colors of your website,"
+"than you need to buy a license.\r\n"
+"            Purchasing a license will add possibility to customize Catalog "
+"Options, Products Options and Image View Options of the plugin."
+msgstr ""
+
+#: product-catalog.php:284
+msgid "Purchase a License"
+msgstr ""
+
+#: product-catalog.php:286
+msgid "After the purchasing the commercial version follow this steps:"
+msgstr ""
+
+#: product-catalog.php:288
+msgid "Deactivate Huge IT Product Catalog Plugin"
+msgstr ""
+
+#: product-catalog.php:289
+msgid "Delete Huge IT Product Catalog Plugin"
+msgstr ""
+
+#: product-catalog.php:290
+msgid "Install the downloaded commercial version of the plugin"
+msgstr ""
+
+#: product-catalog.php:586
+msgid "Huge IT Catalog"
+msgstr ""
+
+#: product-catalog.php:641
+msgid "Select Catalog:"
+msgstr ""
+
+#: product-catalog.php:3151 product-catalog.php:3203 product-catalog.php:3256
+#: product-catalog.php:3298
+msgid "Insert Posts"
+msgstr ""
+
+#: product-catalog.php:3153 product-catalog.php:3154 product-catalog.php:3258
+#: product-catalog.php:3259
+msgid "View List"
+msgstr ""
+
+#: product-catalog.php:3251
+msgid "No Products Found"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Huge IT Product Catalog"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://huge-it.com/product-catalog"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Let us introduce our Huge-IT Product Catalog incomparable plugin. To begin "
+"with, why do we need this plugin and what are the advantages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "http://huge-it.com/"
+msgstr ""

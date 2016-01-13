@@ -1,0 +1,1456 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Product Catalog"
+msgstr ""
+
+#. Short description.
+msgid "Let us introduce our Huge-IT Product Catalog incomparable plugin. To begin with, why do we need this plugin and what are the advantages."
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Blocks Toggle Up/Down"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Catalog / Content Popup"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Full-Width Block"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Content Slider"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Content Popup"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Full-Height Blocks"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Single page"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">WordPress Product Catalog</a> - Product Catalog admin page"
+msgstr ""
+
+#. Found in description header.
+msgid "Wordpress Product Catalog"
+msgstr ""
+
+#. Found in description header.
+msgid "Catalogs: from here you can add products into catalog. Admin page includes:"
+msgstr ""
+
+#. Found in description header.
+msgid "The features of the Product Catalog"
+msgstr ""
+
+#. Found in description header.
+msgid "5 View Options - Product Catalog"
+msgstr ""
+
+#. Found in description header.
+msgid "Product Catalog Demos"
+msgstr ""
+
+#. Found in description header.
+msgid "Product Catalog FAQ &amp; User Manual"
+msgstr ""
+
+#. Found in description header, installation header.
+msgid "If you think, that you found a bug in our [WordPress Product Catalog](http://huge-it.com/product-catalog) plugin or have any question contact us at [info@huge-it.com](mailto:info@huge-it.com)."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/product-catalog/\">Wordpress Product Catalog</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-product-catalog-demo/\">Demo Product Catalog</a>"
+msgstr ""
+
+#. Found in description list item, description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-product-catalog-faq/\">FAQ Product Catalog</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://huge-it.com/wordpress-product-catalog-user-manual/\">User Product Catalog Manual</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Block Toggle Up-Down - Product Catalog"
+msgstr ""
+
+#. Found in description list item.
+msgid "Full-Height Blocks - Product Catalog"
+msgstr ""
+
+#. Found in description list item.
+msgid "Content Popup - Product Catalog"
+msgstr ""
+
+#. Found in description list item.
+msgid "Full-With Blocks - Product Catalog"
+msgstr ""
+
+#. Found in description list item.
+msgid "Content Slide - Product Catalog"
+msgstr ""
+
+#. Found in description list item.
+msgid "Main image of the product Catalog"
+msgstr ""
+
+#. Found in description list item.
+msgid "Additional images (thumbnails)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Title on product catalog"
+msgstr ""
+
+#. Found in description list item, remaining content paragraph.
+msgid "Description"
+msgstr ""
+
+#. Found in description list item.
+msgid "Price"
+msgstr ""
+
+#. Found in description list item.
+msgid "Discount Price"
+msgstr ""
+
+#. Found in description list item.
+msgid "Other parameters"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=OapAJ5lHUcU"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Let us introduce our Huge-IT Product Catalog incomparable plugin. To begin with, why do we need this plugin and what are the advantages.\n"
+"The plugin is made for demonstration, sale, advertisements for your products.In fact its gives you ability to create own online store for your wordpress website. Imagine a stand with a variety of catalogs with a specific product category. To imagine is not difficult, to use is even easier. The zooming options, price,discount price parameters and comment blocks with many other features will make your online store look like professional and advanced e-commerce website."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You have the possibility to add an unlimited number of products, every product can be customized in detail to your preference. Collect all products in certain categories and add them catalog. Catalog may also be customized according to your taste, to allow a detailed understanding of the product in the catalog. In addition, each product may be associated with the image. Customers are provided with the ability of rate the products, and writing feedback about products shown in the catalog, as well as writing reviews which will show up for each product."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Huge-IT Product Catalog license provides you with a high level of customization in relation to almost all aspects of the catalog: from the background color and size of the text inside the cell of the product to the number of products in the series and the number of comments on the product page. Order of the products can be changed with easy drug&amp;drop function. In admin page you can find custom fields containing certain product characteristics, such as price or color, moreover,  you can add more fields. The whole catalog where all your products are collected, can be demonstrated with 5 beautiful views, they are:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Choose a cover image for your catalog and it’s done.\n"
+"General Options for pro users you can find on the left panel under catalog plugin. There are:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Ratings Manager: from here you can manage ratings\n"
+"Review Manager: from here you can manage reviews \n"
+"Plugin includes two kind of shortcodes. The short one is for posts&amp;pages, the longer one is php-shortcode for template, plugin also can be used as widget. Simply copy/past the shortcode into your preferable location, or press the button and automatically add it from edit post/page section"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Block Toggle Up-Down. The compact solution for your shop page. The view will demonstrate the product catalog main image in similar boxes with title, and little arrow next to it, as you press the arrow opens vertical tape, which consists of additional images, description and other parameters about product, and “View Product” button. Pressing on that button you will get to product catalog main page. All images open with Lightbox."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Full-Height Blocks. You definitely have seen e-commerce websites with such design. Its opened vertical tape, with large main image, additional images, text, information about product catalog and “View Product” button. Pressing on that button you will get to product catalog main page.  All images can be opened with Lightbox."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Catalog / Content Popup. In closed position it is fixed boxes with cover/mail image and title, as you click on image, opens popup with larger main and additional images in it, title, description and other information about the product next to it, so its gives fastness for your store as shop will not open new page but big popup with main information, also popup has “View Product” button. Pressing on that button you will get to product catalog main page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Full-With Blocks. Main image with tiny additional images under it, all of them can be opened with Lightbox. Next to the images you can find title, description, product information and  “View Product” button. Pressing on that button you will get to product catalog main page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Content Slider.Slider with main image with tiny additional images under it, all of them can be opened with Lightbox. Next to the images you can find title, description, product information and  “View Product” button. Pressing on that button you will get to product catalog main page. Slide the content manually by pressing on arrows. You also may use it in your shop with another view as widget or advertisement for another category of store."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Upgrade to <a href=\"http://huge-it.com/product-catalog\">WordPress Product Catalog Pro</a> to Customizable Styles and Colors."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-plugins-product-catalog-demo/\">Blocks Toggle Up/Down Product Catalog Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-product-catalog-demo-2-full-width-block/\">Full-Width Blocks Product Catalog Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-product-catalog-demo-3-content-popup/\">Full-Height Blocks Product Catalog Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-product-catalog-demo-4-full-height-blocks/\">Catalog Content Popup Product Catalog Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-product-catalog-demo-5-content-slider/\">Catalog Content Slider Product Catalog Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://huge-it.com/wordpress-product-catalog-user-manual/\">User Manual Product Catalog</a>"
+msgstr ""
+
+#. Found in installation header.
+msgid "Thank you for your interest in Product Catalog."
+msgstr ""
+
+#. Found in installation header.
+msgid "First download the ZIP file ,"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log in to your website administrator panel.   "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Plugins page, and add new plugin.    "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <a href=\"http://wordpress.org/plugins/product-catalog\">WordPress Product Catalog</a>. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click <code>Install Now</code> button.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then click <code>Activate Plugin</code> button. "
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"Minimum requirements Product Catalog.\n"
+"WordPress 3.0+\n"
+"PHP 5.x\n"
+"MySQL 5.x"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Now you can set your Product Catalog options, images and use our Product Catalog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "String errors fixed in product catalog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed product catalog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some mirror Bug fixed product catalog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added some features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation already available."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new option in product catalog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Pagination and  Load More functionality."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Css Bug fixed product catalog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new features and bug fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Plugin product catalog."
+msgstr ""
+
+#. Found in faq header.
+msgid "Video Gallery"
+msgstr ""
+
+#. Found in faq header.
+msgid "If you think, that you found a bug in our [WordPress Video Gallery](http://huge-it.com/wordpress-video-gallery/) plugin or have any question contact us at [info@huge-it.com](mailto:info@huge-it.com)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>Is the payment for Catalog Plugin one-time of per month,year..?</strong>\n"
+"The payment for Pro license is one-time and for life"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>How to install the PRO version of Catalog?</strong>\n"
+"In order to install pro version of the plugin, simply follow these steps: 1) delete your free version of plugin 2) install the zip file | Plugins &gt; add new &gt; upload plugin3) clean your cache files |ctrl+f5| Don’t be afraid of deleting free version, because you will NOT lose your created catalogs"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>How to get a copy of most recent version?</strong>\n"
+"Pro users can get update versions contacting us by info@huge-it.com. Free version users will find update notification in their wordpress admin panel."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>I’ve bought the commercial license of the plugin installed the file but the Plugin seems to be still in free version, what to do?</strong>\n"
+"After installation of pro version, in General Options all your changes will be saved! If you still see “free version” notification after installation of pro version"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>I want to click on catalog image main image and be directed to my product page, is it possible?</strong>\n"
+"If something is not provided in Product Catalog plugin, this is additional customization, for that just contact info@huge-it.com, ask for the conditions and our developers will help you with it."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"**I have paid for pro version and didn’t get the link or file to update. **\n"
+"If you made purchase and didn’t get the plugin pro license file, or file was corrupt, contact us by info@huge-it.com and send order number, we will check and send you the file as soon as possible."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>Have purchased pro version of Product Catalog plugin but still get the announcement to buy the commercial version to change settings. What to do ?</strong>\n"
+"This can happen because of your browser’s cache files. Press ctrl+f5 (Chrome, FF) in order to clean them, if you use safari, etc., clean from browser settings. If nothing helps, just reinstall the plugin again"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>Will I lose all my changes that I made in free version, if I update to pro version of product catalog?</strong>\n"
+"Menu &gt; Main Menu &gt; page &gt; Select &gt; choose our Slider &gt; Save."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>How to have more columns?</strong>\n"
+"The number of columns in product catalog depends on the size of your theme container. In order to fit one more column you should make element size of catalog view a bit smaller. If you are free user and can not make element size smaller, you need to buy the pro version of product catalog plugin or ask the developers for help info@huge-it.com"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>I have bought the commercial license, installed the file but the Plugin seems to be still in free version, what to do?</strong>\n"
+"After installation of pro version, in pro options all your changes will be saved! If you still see “free version” notification after installation of pro version 1) try to clean your cache files, if this will not help 2) delete, and install the plugin again."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<strong>I have already purchased Multi Site version, how do I upgrade it to Developer version, without buying it again?</strong>\n"
+"If you have any pro version of our products and want to upgrade it, you do not need to buy the new one again, you only need to pay the difference price. For example, if you have personal version and need to upgrade to Multi Site, just buy one more personal, and contact us by info@huge-it.com, send the receipt and we will send Multi Site version, from Multi Site to Developer, just buy one personal, and ask us for Developer version."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Wordpress Adding a Product Catalog"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Catalogs &gt; Add New Catalog - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Stage 1 Creation process of Product Catalog **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Add product. Use standard WordPress uploader to add product image. Press “Add New product”. (+) add additional images of the product"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Title. Add product name - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price. Give product price - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Discount Price. Write discount price"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description. Give description about the product"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Other Parameter. You can also add other additional parameters"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "View Reviews. This button will open a window with product reviews list"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "View Ratings. This button will open a window with ratings of the product"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Select The Catalog Theme. Choose one of the views from 5 available catalog views"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Parameters. This area is made to add or change the additional parameters of the product"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Catalog Thumbnail. You can upload cover image for catalog."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Usage. This section includes two kind of shortcodes, First one need to be inserted into post/page, the second one is for template."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Stage 2 Catalog Options - Product Catalog **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "From this section you can make design customization on catalog view. Catalog consists of all products, so catalog view is mostly product initial view. It includes 5 sections. The relevant changes will affect an all catalogs using that specific view option."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**2.1 Block Toggle Up-Down - Product Catalog **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "View Types"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Allow Lightbox. Select to enable viewing images with lightbox"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Allow Zooming. Select to enable zooming on images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Element Styles - Product Catalog **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Background Color. Pick up a color for element background"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Border Width. Write some width number and you can have border on element"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Border Color. Choose color for border on element"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Toggle Button Style. Choose white or black color for toggle button"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Separator Lines. Select to see or do not see separation lines"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Thumbnails - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Thumbnails. Select to see additional images or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Position. Choose where to display additional images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Width. Give width size for additional images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Height. Give height size for additional images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Product Button - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Product Button. Select to see product button or not."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Text. You can change the text inside product button"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Size. Select font size for button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Color. Pick up a color for product button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Hover Color. Pick up color for product button text while hove a mouse on it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Background Color. Pick up color for product button background"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Background Hover Color. Pick up color for product button background while hove a mouse on it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Main Image - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Main Image Width. Set width level for main images of the products within catalog."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Main Image Height. Set height level for main image of the products within catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Title **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Size. Choose size for title"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Color. Select title color"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Description. Select to show the description of the catalog or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Size. Choose size of description"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Color. Choose color for description font"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Options"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Price. Select to demonstrate the price for the products"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Text. Change the name of price block"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Discount Price Text. Write the name of discount price block"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Block Font Size. Select font size of the price and discount price"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Block Font Color. Pick up a color on price text and discount price font"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**2.2 Full-Height Blocks - Product Catalog **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Allow Lightbox. Tick to activate viewing images with lightbox"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Allow Zooming. Tick to activate zoom for images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Styles - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Block Width. Select width size for element"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Background Color. Pick up color for element background"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Border Width. Write some width number and you can have element border"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Border Color. Pick up color for border on element"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Separator Lines. Tick to see or don't see separation lines."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Product Button **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Product Button. Tick to see product button or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Text. You can Amend the text in product button"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Size. Elect font size on button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Color. Take color on product button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Hover Color. Take on product button text while hove a mouse on it."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Background Color. Take color on product button background"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Background Hover Color. Take color on product button background when you hover a mouse"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Main Image Width. Choose width level for main images of the products within catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Main Image Height. Choose height level for main image of the products within catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Color. Pick up title color"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Thumbnails **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Description **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Description. Tick to show the description of the catalog or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Color. Take color for description font"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**Price Options **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Price. Tick to demonstrate the price for the products"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Text. Amend the name of price block"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Discount Price Text. Amend the name of discount price block"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Block Font Size. Elect font size of the price and discount price"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Block Font Color. Take color for price and discount price font"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Title</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Size. Choose size for title on element"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Color. Select title color on the element"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Element Product Button</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Product Button On Element. Select to have “view product” button on element"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Text. Change the text on product details button"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Size. Choose font size of button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Color. Choose font color of button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Background Color. Choose color for product button background"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Popup Title</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Size. Choose size for title in popup"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Element Title Font Color. Select title color in popup"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Popup Thumbnails</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Thumbnails. Select to see additional images in popup or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Position. Choose where to display additional images in popup"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Width. Give width size for additional images in popup"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Height. Give height size for additional images in popup"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Popup Product Button</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Product Buttons. Select to see product button in popup or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Color. Choose color for product button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Hover Color. Choose color for product button text while hove a mouse on it."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Background Hover Color. Choose color for product button background while hove a mouse on it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "**2.4 Full-With Blocks - Product Catalog **"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "View Types - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Price Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Price. Select to demonstrate the price for the products in catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Discount Price Text. Change the name of discount price block"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Block Font Size. Choose font size of the price and discount price"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Block Font Color. Choose color for price and discount price font"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>2.5 Content Slider - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Images - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Main Image Width. Choose width size for main image"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Thumbs. Select to see thumbnail images or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbs Width. Change the width of thumbnail images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbs Height. Change the height of thumbnail images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Product Button. Select to see product button or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Button Font Hover Color. Choose color for product button text while hove a mouse on it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Slider - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slider Background Color. Choose color for content background"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Icons Style. Choose dark or with arrows on slider"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Separator Lines. Select to see separator lines between texts"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Title - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Description - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Stage 3 Products Options"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Image Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Allow Lightbox. Select to have lightbox feature on images or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Allow Zooming. select to have zooming feature on images or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Thumbnails. Select to see the thumbnail images with main one"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Width. Choose width size for thumbnail images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thumbnails Height. Choose height size for thumbnail images"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Comments Box Options"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Comments. Select to see comments or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Commentator Name Color. Choose color for commentator name"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Comment Text Color. Choose color for comment text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Comment Box Background Color. Choose color for comments’ container"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Submit Button Text. Change the text on “submit” button"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Submit Button Text Size. Decide text size for “submit” button text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Submit Button Text Color. Choose color for “submit” text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Submit Button Text Hover Color. Choose other color for “submit” button text while hover a mouse on it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Submit Button Background Color. Choose color for “submit” button background"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Submit Button Background Hover Color. Choose other color for “submit” button background while hover a mouse on it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Text Option - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Block Text. Change the text for “price”"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Discount Price Block Text. Change the text for “discount price”"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Share Block Text. Choose text for Share Buttons block"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Rating Block Text. Change the text of rating block"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Parameters Tab Title Text. Change the text on “parameter” tab"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Comments Tab Title Text. Change the text on “comment” tab"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Name Label Text. Change text on “name” label"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Comment Label Text. Change text on “comment” label"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Captcha Label Text. Change text on “captcha” label"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Captcha Error Message Text. Change text on captcha error message"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Order Popup Title. Decide title for order popup window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "E-mail Input Text. Choose text for E-mail input"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Phone Input Text. Choose text for phone number input"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Message Input Text. Change text for message input"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Product Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Product Block Background Color."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Size. Decide font size for product title"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Title Font Color. Decide font color for title"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Price. Select to show the price or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Font Size. Give size to price text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Price Font Color. Choose color for price text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Description. Select to show description or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Size. Decide font size for description text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Description Font Color. Choose color for description text"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Rating. Select to show rating for the product or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Share Buttons. Select to show share buttons or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Rating's / Share Button's Label Font Size. Choose font size for rating/share buttons label"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Rating's / Share Button's Label Font Color. Choose font color for rating/share buttons label"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Separator Lines. Select t see separator lines in product box between texts"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Tabs Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Tabs Titles Font Color. Choose color for text in tabs"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Tabs Titles Font Hover Color. Choose color for text in tabs while hover mouse on it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Tabs Border Color. Choose tab’s border color"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Parameters Box Options"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show Parameters. Select to see parameters tab"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Parameter Name Color. Choose color for parameters name"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Parameter Value Color. Choose color for parameters value"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Stage 4 Image View Options Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>4.1 Lightbox Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Internationalization - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lightbox style. Pick up one of designed styles of ligtbox"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Transition type. Choose the effect of lightbox performance"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Opening speed. From here, configure speed of opening for lightbox"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Closing speed. Configure the speed of closing for lightbox"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show the title. Tick to display the title of image."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Overlay transparency. In opened position of lightbox, you can adjust the background overlay transparency level"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Auto open. Tick for automatically opening the first image after reloading."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Overlay close. Tick to close the lightbox by clicking on the background overlay."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "ESC close. Tick to close the image with esc button on keyboard."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"Keyboard navigation. Tick to slide images in lightbox with left and right buttons\n"
+". \n"
+"Loop content. Selection of this option can allow to get to the first image after last image"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Show close button. Choose to display close button or not"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Positioning - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Fixed position. Tick to fix the ligtbox position while scrolling the page"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup position. You are given 9 ways to posit the ligtbox within page."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Dimensions - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup size fix. Selection of this options will fix the popup width and height"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup height. Give the height size to the lightbox"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup width. Give width size to the lightbox"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup max width. In case of size - unfixed, choose image max width"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup max height. n case of size - unfixed, choose image max height"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup initial height. Decide the inceptive height of opening"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Popup initial width. Decide the inceptive width of opening"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Slideshow - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow. Tick to enable slideshow"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow interval. Decide period between slides"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow auto start. Selection of this option will start slideshow automatically as you open a lightbox. Also there will be “play” and “stop” button for slideshow"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow start button text. Enter some new text on start button"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Slideshow stop button text. Enter some new text of stop button"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>4.2 Zoom Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window Options"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window. Window type of zoom icon"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window Width. Give width size for zoom window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window Height. Give height size for zoom window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "X-Asis Offset. Choose the position of window by x-asis"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Y-Asis Offset. choose position of window by y-asis"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window Position. zoom window position by sides"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window Border Size. Give border to zoom window and decide the size of it"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window Border Color. Pick up color for zoom window border"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window Border Radius. Set the radius level of window corners"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Allow Zoom On Thumbnails. Select to allow zooming the thumbnail images Tint Options"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Enable Tint.Select to have transparent overlay out of zoom window Tint Colour. Choose a color for tint overlay"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Tint Opacity. Chose transparency level for overlay,which is out of zoom window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Tint FadeIn Speed. Set fade-in speed for tint"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Tint FadeOut Speed. Set fade-out speed for tint"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Window Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window Fade In Speed. Set fade-in speed for window overlay"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window Fade Out Speed. Set fade-out speed for window overlay"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Window. Select to have zoom window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window Shape. Choose window type"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window Color. Pick up color overlay inside zoom window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window Opacity. Choose opacity level for overlay inside zoom window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Cursor. The default cursor is usually the arrow, then set the cursor is a pointer and cross icon"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Easing. Select for smoothly movement in window view."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window Size Fix. Select to fix the size of the window"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Window Zoom Scroll. Select to be able to scroll the zoom"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Inner. Inner type of zoom icon"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Inner Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Inner Fade In Speed. Set fade-in speed for inner overlay"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Inner Fade Out Speed. Set fade-out speed for inner overlay"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Inner. Select to have zoom inner Pick up color overlay inside zoom inner"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Inner Opacity. Choose opacity level for overlay inside zoom inner"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Easing. Select for smoothly movement in inner view."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Inner Size Fix. Select to fix the size of the inner"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Inner Zoom Scroll. Select to be able to scroll the zoom"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lens. Lens type of zoom icon - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Lens Options - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lens Fade In Speed. Set fade-in speed for lens overlay - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lens Fade Out Speed. Set fade-out speed for lens overlay - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Zoom Lens. Select to have zoom lens - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lens Shape. Choose lens type Lens Color. Choose color overlay inside zoom lens - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lens Opacity. Choose opacity level for overlay inside zoom lens - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Cursor. The default cursor is usually the arrow, then set the cursor is a pointer and cross icon - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Easing. Select for smoothly movement in lens view - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lens Size Fix. Select to fix the size of the lens - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Lens Zoom Scroll. Select to be able to scroll the zoom - Product Catalog"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>Stage 5 Rating Reviews Manager - Product Catalog</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Rating Manager. From this section you can manage product ratings. Edit or Remove"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Reviews Manager. From this section you can manage reviews. Edit or Remove"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"The shortcode can be easily inserted into a template/theme which corresponds to the WordPress standards.\n"
+"To do so you should insert the following shorcode:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Where N is the number ID of the created Product Catalog."
+msgstr ""
